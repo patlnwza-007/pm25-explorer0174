@@ -1,0 +1,12 @@
+[project]
+name = "pm2-5-explorer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "duckdb>=2.0.0",
+    "pandas>=3.1.1",
+    "plotly>=7.1.0",
+    "streamlit>=1.67.0",
+]
